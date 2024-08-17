@@ -1,0 +1,1568 @@
+.Article-child {
+    width: 100%;
+    height: 600px;
+
+}
+
+.Vidio {
+    text-align: center;
+    color: rgb(17, 0, 94);
+    cursor: pointer;
+}
+
+.sahifalar {
+    font-weight: 800;
+    color: rgb(48, 105, 184);
+    cursor: pointer;
+
+
+}
+
+.H3:hover {
+    color: blueviolet;
+    transform: translateX(20px);
+    transition: transform 0.3s ease-in-out;
+}
+
+.H3 {
+    transform: translateX(0px);
+    transition: transform 0.3s ease-in-out;
+   width: max-content;
+   padding:2px 15px;
+}
+
+.Navbarroter2-h3 {
+
+    font-weight: 200;
+}
+
+.vvv {
+    display: grid;
+    grid-template-columns: auto(auto-fit, 600px);
+}
+
+.b {
+    text-align: center;
+    font-weight: 500;
+}
+
+.bb {
+    width: 100%;
+}
+.container66{
+    border: 2px solid blue;
+    padding: 10px 25px;
+}
+.Navbarroter2-h3 {
+
+    border: 2px solid rgb(8, 0, 255);
+    padding: 10px 20px;
+    align-items: center;
+    cursor: pointer;
+}
+
+.Ass {
+    width: 98%;
+    height: 1000px;
+}
+
+.vvv {
+
+    display: flex;
+
+}
+
+.Ann {
+    width: 47%;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    background-image: url(../img/asss.jpg);
+}
+
+.qw {
+    text-align: center;
+    color: black;
+
+}
+
+.ko {
+    height: 400px;
+    width: 50%;
+}
+
+.LL {
+    width: 100%;
+}
+
+.jj {
+    text-align: center;
+    cursor: pointer;
+    padding: 0px 55px;
+    margin-bottom: 10px;
+    font-weight: 500;
+}
+
+.sah {
+    border: 1px solid rgb(6, 168, 255);
+    align-items: center;
+    padding: 20px 20px;
+    color: rgb(3, 118, 156);
+}
+
+.noon {
+    cursor: pointer;
+    font-weight: 500;
+    width: 200px;
+    transition: transform 0.3s ease-in-out;
+}
+
+.noon:hover {
+    transform: translateX(20px);
+    transition: transform 0.3s ease-in-out;
+    color: blueviolet;
+}
+
+.fanlar {
+    width: 300px;
+    height: 40px;
+    background-color: rgb(39, 110, 181);
+    text-align: center;
+    padding: 10px 10px;
+    cursor: pointer;
+    transform: 2s ease;
+    border-radius: 15px;
+    transition: .1s ease;
+
+    &:hover {
+
+        border: 3px solid rgb(0, 255, 106);
+
+    }
+
+}
+
+.fanlar-paarent {
+    display: flex;
+    justify-content: center;
+    padding: 20px 0px;
+
+    transition: transform 0.3s ease-in-out;
+    gap: 70px;
+    width: 50%;
+    background-color: rgb(24, 172, 172);
+
+
+}
+
+.fanlar-parent-1 {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+/* .fanlar:hover{
+    
+   
+} */
+.Navbarroter10 {
+
+    text-align: center;
+}
+
+.Navbarroter10-parent {
+    border: 4px solid rgb(25, 255, 171);
+}
+
+.Navbarroter10-Scrinschot {
+    width: 100%;
+    height: 300px;
+}
+
+.faj {
+    width: 50%;
+    background-color: rgb(26, 186, 186);
+}
+
+.fajj {
+    padding: 5px 20px;
+    font-weight: 500;
+}
+
+.fajjjj {
+    width: 50%;
+    margin-left: 50%;
+    background-color: rgb(26, 186, 186);
+}
+
+.fajjj {
+    padding: 5px 20px;
+    font-weight: 500;
+}
+
+.onClick {
+    cursor: pointer;
+
+    &:hover {
+        color: rgb(30, 0, 222);
+    }
+}
+
+.Navbarroter13 {
+    width: 400px;
+    transition: all 1s;
+    height: 150px;
+    background-color: rgb(3, 137, 150);
+    border-radius: 10px;
+    text-align: center;
+
+    &:hover {
+        cursor: pointer;
+        transform: scale(1.1);
+        color: white;
+    }
+}
+
+.Navbarroter13-parent {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 400px);
+    gap: 70px;
+    align-items: center;
+    padding: 0px 50px;
+
+}
+
+.Navbarroter13-h1 {
+    padding: 20px 0px;
+    font-size: 34px;
+    font-weight: 500;
+    text-align: center;
+}
+
+.Navbarroter14-parent {
+    width: 100%;
+    border: 2px solid grey;
+    cursor: pointer;
+
+    h2 {
+        font-weight: 500;
+        padding: 10px 20px;
+    }
+}
+
+.Navbarroter14 {
+    text-align: center;
+    font-weight: 700;
+    color: black;
+}
+
+.Navbarroter20-child {
+    transition: all 0.5s;
+    width: 450px;
+    border-radius: 8px;
+    height: 120px;
+    background-color: aquamarine;
+    text-align: center;
+    cursor: pointer;
+
+    &:hover {
+        background-color: rgb(8, 232, 248);
+
+    }
+}
+
+.Navbarroter20-parent {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 400px);
+    gap: 90px;
+
+    h2 {
+        padding: 35px 0px;
+    }
+}
+
+.Navbarroter24-h2 {
+    text-align: center;
+    font-weight: 500;
+}
+
+.Navbarroter24-h3 {
+
+    border: 2px solid rgb(4, 255, 0);
+    padding: 10px 15px;
+    font-weight: 500;
+}
+
+.Navbarroter26-h2 {
+    text-align: center;
+    font-weight: 500;
+}
+
+.Navbarroter27-h3 {
+    text-align: center;
+    border: 2px solid rgb(5, 214, 12);
+    padding: 10px 15px;
+    font-weight: 500;
+
+}
+
+/* FormComponent.css */
+.form-container {
+    position: relative;
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #16393e;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    margin-top: -210px;
+}
+
+@media (max-width:1310px) {
+    .form-container {
+        display: block;
+        width: 400px;
+    }
+
+}
+
+@media (max-width:1034px) {
+    .form-container {
+        display: block;
+        width: 310px;
+    }
+
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.form-group input,
+.form-group textarea {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+button {
+    display: inline-block;
+    padding: 10px 15px;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.error {
+    color: red;
+    font-size: 12px;
+}
+
+.main-heading {
+    text-align: center;
+    color: #333;
+    font-size: 2em;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+.Navbarroter29 {
+    border: 2px solid blue;
+    padding: 10px 15px;
+}
+
+.sub-heading {
+    color: #333;
+    font-size: 1.5em;
+    margin-bottom: 20px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.Navbarroter29 {
+    border: 2px solid blue;
+    cursor: pointer;
+}
+
+.section-heading {
+    color: #333;
+    font-size: 1.3em;
+    margin-bottom: 10px;
+}
+
+.subsection-heading {
+    color: #333;
+    font-size: 1.1em;
+    margin-bottom: 10px;
+}
+
+.Navbarroter30 {
+    border: 2px solid blue;
+    padding: 10px 15px;
+    margin-bottom: 30px;
+    cursor: pointer;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+
+
+
+
+
+
+
+
+
+
+header {
+    margin-bottom: 20px;
+}
+
+header h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+
+
+
+
+.project-card {
+    cursor: pointer;
+
+}
+
+.project-grid {
+    display: flex;
+    flex-wrap: wrap-reverse;
+    align-items: center;
+    justify-content: center;
+    gap: 180px;
+
+}
+
+.project-card,
+.service-card {
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+    flex: 1 1 calc(33.333% - 40px);
+    max-width: calc(33.333% - 40px);
+}
+
+.project-card h3,
+.service-card h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.project-card p,
+.service-card p {
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+.project-card a,
+.service-card a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.project-card a:hover,
+.service-card a:hover {
+    text-decoration: underline;
+}
+
+.completed-work {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+
+
+
+.Project {
+    text-align: center;
+    cursor: pointer;
+    margin-bottom: 30px;
+}
+
+.service-card {
+    cursor: pointer;
+    margin-bottom: 50px;
+}
+
+.service-grid {
+    display: flex;
+    flex-wrap: wrap-reverse;
+    align-items: center;
+    justify-content: center;
+    gap: 180px;
+
+}
+
+.yuklash:hover {
+    transition: 1s all ease;
+    color: rgb(221, 28, 28);
+    cursor: pointer;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+}
+
+.item-card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    transition: transform 0.3s, background-color 0.3s;
+    cursor: pointer;
+}
+
+.item-card:hover {
+    background-color: #f0f0f0;
+    transform: scale(1.05);
+}
+
+.Navbarroter52 {
+    border: 2px solid blue;
+    padding: 10px 15px;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
+.icon {
+    font-size: 2rem;
+}
+
+.title {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+
+}
+
+
+.Navbarroter33 {
+    border: 2px solid blue;
+    padding: 10px 15px;
+    font-weight: 500;
+}
+
+
+
+/* src/components/DocumentList.css */
+.document-list {
+    width: 80%;
+    margin: 20px auto;
+    font-family: Arial, sans-serif;
+}
+
+.document-item {
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+
+
+
+.document-code {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.document-details {
+    margin-left: 10px;
+}
+
+.document-row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5px;
+}
+
+.document-title {
+    flex: 1;
+}
+
+.document-download a {
+    color: blue;
+    text-decoration: none;
+}
+
+.document-download a:hover {
+    text-decoration: underline;
+}
+
+/* src/components/SearchComponent.css */
+.search-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+    position: relative;
+}
+
+.table {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.img_11 {
+    width: 100%;
+    display: grid;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+/* {currentNames.map((name, index) => (
+                <div key={index}>
+                   <img className='img_11' src={name.img} alt="" />
+                </div>
+            ))} */
+
+
+.pagination-controls {
+    margin-bottom: 20px;
+    gap: 20px;
+    display: flex;
+
+}
+
+.input_1 {
+    width: 300px;
+    margin-bottom: 10px;
+    height: 40px;
+    border-radius: 15px;
+    position: relative;
+    cursor: pointer;
+    text-align: center;
+
+    border: 2px solid rgb(4, 107, 142);
+
+    &:hover {
+        border: 2px solid coral;
+    }
+}
+
+.pagination-controls button:hover {
+    background-color: #0e25a3;
+}
+
+
+
+.pagination {
+    margin-top: 20px;
+}
+
+.pagination button {
+    margin: 0 5px;
+    padding: 5px 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #0c6291;
+    cursor: pointer;
+}
+
+.pagination button:hover {
+    background-color: #070ab7;
+}
+
+
+
+.Navbarroter37 {
+    border: 2px solid blue;
+    padding: 10px 15px;
+    margin-bottom: 20px;
+}
+
+.tbody {
+    text-align: center;
+}
+
+
+
+.text-area {
+
+    resize: none;
+    /* Boyutlandırmayı devre dışı bırakır */
+
+}
+
+.containerr {
+    border: 2px solid blue;
+    padding: 10px 15px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+.containerrr {
+    position: relative;
+    border: 2px solid blue;
+    padding: 10px 15px;
+    margin-bottom: 20px;
+}
+
+.th {
+    text-align: center;
+    background: #007bff;
+    cursor: pointer;
+}
+
+.tdd {
+    text-align: center;
+    cursor: pointer;
+    color: red;
+}
+
+.trr {
+    text-align: center;
+    cursor: pointer;
+    background: #007bff;
+}
+
+
+
+/* src/components/BackToTopButton.css */
+.back-to-top {
+    position: fixed;
+    bottom: 50px;
+    right: 30px;
+    z-index: 1000;
+}
+
+.back-to-top button {
+    background-color: #007bffc7;
+    color: white;
+    border: none;
+    padding: 15px 20px;
+    border-radius: 35px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.back-to-top button:hover {
+    background-color: #0056b3;
+}
+
+
+.loader-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 1000;
+}
+
+/* HTML: <div class="loader"></div> */
+.loader {
+    width: 100px;
+    aspect-ratio: 1;
+    display: grid;
+    -webkit-mask: conic-gradient(from 15deg, #0000, #000);
+    animation: l26 1s infinite steps(12);
+}
+
+.loader,
+.loader:before,
+.loader:after {
+    background:
+        radial-gradient(closest-side at 50% 12.5%,
+            #33a4f0 96%, #0000) 50% 0/20% 80% repeat-y,
+        radial-gradient(closest-side at 12.5% 50%,
+            #33f0d0 96%, #0000) 0 50%/80% 20% repeat-x;
+}
+
+.loader:before,
+.loader:after {
+    content: "";
+    grid-area: 1/1;
+    transform: rotate(30deg);
+}
+
+.loader:after {
+    transform: rotate(60deg);
+}
+
+@keyframes l26 {
+    100% {
+        transform: rotate(1turn)
+    }
+}
+
+.H2 {
+    text-align: center;
+    border: 2px solid blue;
+    padding: 10px 15px;
+}
+
+
+
+/* src/components/UniversityInfo.css */
+.university-info-container {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+
+}
+
+.header h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.contact-info {
+    text-align: center;
+}
+
+.contact-info p {
+    margin: 5px 0;
+}
+
+.social-icons a {
+    margin: 0 10px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.content h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+.content p {
+    text-align: justify;
+    margin-bottom: 15px;
+    cursor: pointer;
+}
+
+.content ul {
+    list-style-type: decimal;
+    padding-left: 20px;
+    margin-bottom: 15px;
+    cursor: pointer;
+}
+
+.content ul li {
+    margin-bottom: 5px;
+}
+
+.fab_facebook {
+    width: 40px;
+}
+
+.Logatip {
+    width: 50%;
+    cursor: pointer;
+}
+
+p {
+    font-size: 20px;
+}
+
+.Prezdent {
+    cursor: pointer;
+    text-align: center;
+    width: 50%;
+    display: block;
+    /* Rasmni inline element emas, blok element sifatida ko'rsatish */
+    margin: 0 auto;
+    /* Rasmning o'lchamiga ko'ra o'rtada joylashish */
+}
+
+.Nutq {
+    border: 2px solid rgb(20, 9, 176);
+    padding: 10px 15px;
+    margin-bottom: 20px;
+
+}
+
+.Imglarr {
+    width: 35px;
+    gap: 20px;
+    cursor: pointer;
+}
+
+.Imglar {
+
+    width: 130px;
+
+    gap: 15px;
+    display: flex;
+    align-items: center;
+
+}
+
+.Navbarroter47 {
+    border: 2px solid blue;
+    padding: 10px 15px;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
+
+
+
+.text-center {
+    text-align: center;
+    cursor: pointer;
+
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+    border: 2px solid blue;
+    cursor: pointer;
+}
+
+
+
+.containerrr {
+    max-width: 900px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+.text-center {
+    text-align: center;
+    font-weight: bold;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.content {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+}
+
+p {
+    margin-bottom: 16px;
+}
+
+
+
+.educational-info {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.year-section {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.year-section h2 {
+    color: #2c3e50;
+    cursor: pointer;
+}
+
+.year-section ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+.year-section li {
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+/* 
+.container {
+    text-align: center;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin: 10px 0;
+  }
+  */
+.image-container {
+    margin: 20px 0;
+    gap: 50px;
+    display: block;
+}
+
+.image-container img {
+    width: 60%;
+    height: auto;
+    margin: 20px 0;
+    margin: auto;
+    cursor: pointer;
+    display: block;
+}
+
+.Navbarroter63-child {
+    display: flex;
+    margin: auto;
+    align-items: center;
+    cursor: pointer;
+    justify-content: center;
+
+}
+
+.a404 {
+
+    margin-top: 90px;
+    text-align: center;
+    font-size: 150px;
+    margin-left: -130px;
+
+}
+
+.a4044 {
+    background-color: #0056b3;
+
+    display: block;
+    justify-content: center;
+    text-align: center;
+}
+
+.a40444 {
+    margin-top: 250px;
+    text-align: center;
+    font-size: 150px;
+
+}
+
+.search-bar {
+    margin-bottom: 20px;
+}
+
+.search-bar input {
+    padding: 8px;
+    width: 200px;
+}
+
+.search-bar button {
+    padding: 8px 16px;
+    margin-left: 8px;
+}
+
+.book-section {
+    margin-bottom: 20px;
+}
+
+.book-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+
+    justify-content: center;
+}
+
+.book-item {
+    border: 1px solid #000000;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+
+}
+
+.book-item img {
+    width: 300px;
+    height: 350px;
+
+}
+
+
+
+
+.heading {
+    font-size: 2.5em;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.welcomeMessage {
+    font-size: 1.5em;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.text {
+    font-size: 1.1em;
+    margin-bottom: 20px;
+}
+
+.list {
+    padding-left: 20px;
+    margin-bottom: 20px;
+}
+
+.subHeading {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+
+/* src/YoungScientists.css */
+
+.young-scientists {
+    text-align: center;
+    /* Matn va rasm markazda joylashadi */
+    padding: 20px;
+    background-color: #f9f9f9;
+    /* Yengil kul rang fon */
+    border-radius: 8px;
+    /* Yumaloq chekkalar */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    /* Soyalar */
+    max-width: 800px;
+    /* Maksimal kenglik */
+    margin: 20px auto;
+    /* Markazga joylash */
+}
+
+.scientists-image {
+    max-width: 100%;
+    height: 400px;
+    margin: 20px 0;
+    /* Yuqori va pastki margin */
+    border-radius: 8px;
+    /* Yumaloq chekkalar */
+}
+
+.h222 {
+    font-size: 28px;
+    margin-bottom: 20px;
+    color: #333;
+    /* Qora rang */
+}
+
+.p222 {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #666;
+    /* To'q kul rang */
+}
+
+
+.masofaviy-talim {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    padding: 20px;
+
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.title {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+    color: #848484;
+    text-align: center;
+}
+
+.section-title {
+    font-size: 1.8em;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    color: #848484;
+}
+
+.paragraph {
+    margin-bottom: 15px;
+    color: #555;
+}
+
+.list {
+    list-style-type: disc;
+    padding-left: 20px;
+    margin-bottom: 20px;
+}
+
+.list-item {
+    margin-bottom: 10px;
+    color: #00000076;
+}
+
+.list-item strong {
+    color: #045cff;
+}
+
+
+
+
+
+
+
+
+.dars-jadvali {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.title {
+    font-size: 2em;
+    margin-bottom: 20px;
+    color: #565656fd;
+    text-align: left;
+}
+
+.tabs {
+    display: flex;
+    background-color: #00000024;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border-bottom: 1px solid #dddddd;
+}
+
+.tab {
+    padding: 10px 20px;
+    cursor: pointer;
+
+    background: none;
+    border: none;
+    border-bottom: 2px solid transparent;
+    color: #565656fd;
+    font-size: 1em;
+}
+
+.tab.active {
+    border-bottom: 2px solid #2c3e50;
+    font-weight: bold;
+}
+
+.course-content {
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.course-item {
+    margin-bottom: 20px;
+}
+
+.degree {
+    font-size: 1.2em;
+    color: #e74c3c;
+    margin-bottom: 5px;
+}
+
+.faculty {
+    font-size: 1em;
+    color: #27ae60;
+    margin-bottom: 5px;
+}
+
+.year {
+    font-size: 0.9em;
+    color: #7f8c8d;
+}
+
+
+
+
+.pdf-links {
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.pdf-links ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.pdf-links li {
+    margin-bottom: 10px;
+}
+
+.pdf-links a {
+    color: #007bff;
+    text-decoration: none;
+    font-size: 1em;
+}
+
+.pdf-links a:hover {
+    text-decoration: underline;
+}
+
+
+
+
+
+.containere {
+    width: 80%;
+    margin: 20px auto;
+    background: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+p {
+    margin-bottom: 20px;
+}
+
+
+
+
+
+
+.section {
+    margin-bottom: 20px;
+}
+
+.section-header {
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-top: 20px;
+    color: #2980b9;
+}
+
+.stipendiya-container {
+    padding: 0px 15px;
+}
+
+.table-container {
+    width: 100%;
+    overflow-x: auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+}
+
+
+
+@media (max-width: 768px) {
+
+
+
+    td:before {
+        content: attr(data-label);
+        position: absolute;
+        left: 0;
+        width: 95%;
+        padding-left: 15px;
+        font-weight: bold;
+        text-align: left;
+    }
+}
+
+.zc {
+    text-align: center;
+}
+
+
+.anti-corruption-container {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+}
+
+.anti-corruption-container h1 {
+    color: #2c3e50;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.anti-corruption-container h2 {
+    color: #34495e;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.anti-corruption-container p {
+    line-height: 1.6;
+    margin-bottom: 10px;
+}
+
+.anti-corruption-container a {
+    color: #2980b9;
+    text-decoration: none;
+}
+
+.anti-corruption-container a:hover {
+    text-decoration: underline;
+}
+
+.anti-corruption-container ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+.anti-corruption-container ul li {
+    margin-bottom: 5px;
+}
+
+
+#anti-corruption-container{
+    
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    
+}
+
+
+
+
+.data-list-container {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+}
+
+.data-list-container-h1 {
+    color: #2c3e50;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.data-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.data-list-item {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+.data-list-item:nth-child(even) {
+    background-color: #f1f1f1;
+}
+
+.data-list-item-ism {
+    font-weight: bold;
+    font-style: italic;
+    cursor: pointer;
+}
+
+.data-list-item-daraja {
+    color: #000;
+    cursor: pointer;
+}
+.data-list-article{
+    display: flex;
+    justify-content: space-between;
+    color: #0e25a3;
+    font-style: italic            
+};
+.rasm110{
+   
+    
+}
+.text87{
+   color: #007bff;
+   padding:150px 0px;
+}
+.navbar87{
+   
+   display: flex;
+   gap: 15px;
+}
+@media (max-width: 760px) {
+    .navbar87{
+        flex-direction: column;
+    }
+    
+}

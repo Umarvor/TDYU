@@ -1,0 +1,126 @@
+* {
+  margin: 0;
+  padding: 0;
+  user-select: none;
+  
+}
+
+.container {
+  max-width: 1500px;
+  margin: auto;
+  
+
+
+}
+
+.top {
+
+
+  position: fixed;
+  bottom: 20px;
+  right: 10px;
+
+
+
+  text-decoration: none;
+  padding: 10px;
+  font-family: sans-serif;
+  cursor: pointer;
+  background: rgb(96, 159, 120);
+  border-radius: 100px;
+
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+  border-radius: 10px;
+
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #0b1bfa;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+
+
+:root {
+  --background-color: #ffffff;
+ 
+
+
+}
+
+[data-theme="dark"] {
+  --background-color: #000000c8;
+  
+  --text-color: #000000;
+  --h1-color: #0e878e;
+  --h2-color: #000000;
+  --a--color: #ffffff;
+  --H3-color: #ffffff;
+  --h3-color:#ffffff;
+  --h3-colorr:#198cff;
+  --h-color:var(--text-color);
+  --containerrr-color:#6a6a6a;
+  --bb-bg:white;
+  
+}
+.book-item{
+  background-color: var(--bb-bg);
+}
+.h3{
+  color: var(--a--color);
+}
+#h3{
+  color: var(--h3-colorr);
+}
+#h33{
+  color: var(--a--color);
+}
+#h333{
+  color: var(--h-color);
+}
+a{
+  color: var(--a--color);
+}
+p{
+  color: var(--h1-color);
+}
+.xxx{
+  color: var(--h3-color);
+}
+.xxxx{
+  color: var(--h3-colorr);
+}
+.Project{
+  color: var(--h3-colorr);
+}
+li{
+  color: var(--h3-color);
+}
+h1 {
+  color: var(--h1-color);
+}
+h2 {
+  color: var(--h2-color);
+}
+.H3{
+  color: var(--h3-color);
+}
+.text-center{
+  color: var(--containerrr-color);
+}
+
+body {
+  background-color: var(--background-color);
+  color: var(--text-color);
+  color: var(--h1-color);
+  color: var(--h2-color);
+
+  
+}
+.App-header{
+  padding: 0px 5px;
+}

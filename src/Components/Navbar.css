@@ -1,0 +1,494 @@
+.navbar {
+    flex-shrink: 0;
+    background-color: rgb(43, 67, 101);
+    height: 42px;
+   top: 0;
+   
+    width: 100%;
+   
+    z-index: 5555555888888;
+
+
+}
+
+.navbar-nav {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 100px);
+    list-style-type: none;
+    gap: 60px;
+    height: 40px;
+
+
+
+
+}
+
+.darkk {
+    margin-top: -4px;
+}
+
+.UserButton {
+    margin-top: 9px;
+}
+
+.nav-link {
+    transition: 2s all;
+}
+
+.navv-item {
+    width: 100px;
+    display: block;
+    margin: auto;
+    margin-top: 8px;
+    transition: 1s all;
+
+    &:hover {
+
+
+
+        border-radius: 50px;
+
+
+        transform: scale(1.1);
+
+
+    }
+
+}
+
+.aa {
+    text-decoration: none;
+    color: white;
+}
+
+.sh {
+    width: 240px;
+    height: 250px;
+    background: rgb(255, 255, 255);
+    z-index: 1000;
+    position: absolute;
+    display: none;
+    padding: 15px 20px;
+}
+
+.shh {
+    width: 200px;
+    height: 150px;
+    background: rgb(230, 230, 230);
+    z-index: 1000;
+    position: absolute;
+    display: none;
+    padding: 10px 15px;
+
+
+}
+
+.shhh {
+    display: flex;
+    width: 400px;
+    height: 450px;
+    background: rgb(230, 230, 230);
+    z-index: 1000;
+    position: absolute;
+    display: none;
+    padding: 15px 20px;
+
+}
+
+.shhhh {
+    display: flex;
+    width: 150px;
+    height: 160px;
+    background: rgb(230, 230, 230);
+    z-index: 1000;
+    position: absolute;
+    display: none;
+    padding: 15px 20px;
+
+}
+
+.navvv-item {
+    width: 150px;
+    height: 120px;
+    z-index: 3;
+    background-color: rgb(17, 144, 255);
+    border-radius: 0px 0px 40px 40px;
+
+
+
+
+}
+
+.nav-link {
+    color: #ffffff;
+    text-decoration: none;
+    margin-top: 10px;
+    cursor: pointer;
+    position: absolute;
+    transition: 0.5s all ease;
+    margin-left: 20px;
+
+}
+
+.nav-link:hover {
+    color: rgba(42, 166, 255, 0.73);
+}
+
+
+.nav-item:hover .sh {
+    display: block;
+
+}
+
+.nav-item:hover .shh {
+    display: block;
+}
+
+.nav-item:hover .shhh {
+    display: block;
+}
+
+.nav-item:hover .shhhh {
+    display: block;
+}
+
+.border-bottom:hover {
+    color: #0040ff;
+}
+
+
+.box11_11 {
+
+    width: 185px;
+    height: 150px;
+    background: rgb(249, 247, 247);
+    z-index: 1000;
+    position: absolute;
+    border-radius: 2px 2px 10px 10px;
+    display: none;
+    padding: 15px 20px;
+    text-align: start;
+
+
+}
+
+.box11_111 {
+
+    width: 185px;
+    height: 150px;
+    background: rgb(249, 247, 247);
+    z-index: 1000;
+    position: absolute;
+    display: none;
+    padding: 15px 20px;
+    text-align: start;
+    margin-left: -150px;
+
+}
+
+.box11:hover .box11_111 {
+    display: block;
+}
+
+.Projectt {
+    text-align: center;
+    cursor: pointer;
+
+}
+
+.box11:hover .box11_11 {
+    display: block;
+}
+
+
+
+.box5 {
+    display: flex;
+    justify-content: space-between;
+
+
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.box8 {
+
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(54, 160, 167);
+    align-items: center;
+    text-align: center;
+    list-style: none;
+    height: 35px;
+
+    font-weight: bold;
+
+    font-size: 13px;
+
+}
+
+.box6 {
+    width: 44.7%;
+
+
+}
+
+.box9 {
+    width: 49.35%;
+
+}
+
+.box10 {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(54, 159, 167);
+    align-items: center;
+
+    list-style: none;
+    height: 35px;
+    font-weight: bold;
+
+    font-size: 13px;
+}
+
+
+
+.box12 {
+    height: 33px;
+    margin-top: 3px;
+    cursor: pointer;
+
+}
+
+.w {
+
+    width: 200px;
+    height: 50px;
+}
+
+.box30 {
+    width: 210px;
+    background-color: rgb(53, 193, 186);
+    text-align: start;
+    z-index: 3;
+
+}
+
+.TreeItem {
+    color: rgb(96, 88, 88);
+}
+
+.Navlink {
+    text-decoration: none;
+
+
+}
+
+.box11 {
+    color: rgba(1, 1, 4, 0.81);
+    font-weight: 500;
+    transition: 2s all ease;
+    cursor: pointer;
+
+}
+
+.Nuqta {
+    position: absolute;
+    height: 40px;
+    display: none;
+    z-index: 1000;
+    width: 50px;
+    padding: 0px 15px;
+
+}
+
+.zsx {
+    display: flex;
+    gap: 20px;
+    width: 100px;
+    height: 40px;
+    z-index: 54454545459999999999999;
+}
+
+@media (max-width:1462px) {
+    .zsx {
+        margin-left: 970px;
+        position: absolute;
+
+    }
+
+}
+
+@media (max-width:1200px) {
+    .zsx {
+        margin-left: 700px;
+        position: absolute;
+
+    }
+
+}
+
+@media (max-width:863px) {
+    .zsx {
+        margin-left: 350px;
+
+
+    }
+
+}
+
+@media (max-width:540px) {
+    .zsx {
+        margin-left: 350px;
+
+
+    }
+
+}
+
+@media (max-width:500px) {
+    .zsx {
+        margin-left: 220px;
+
+
+    }
+
+}
+
+.popup {
+    display: block;
+    position: fixed;
+
+    z-index: 8888;
+    top: 0;
+    width: 350px;
+    border-radius: 0px 0px 15px 10px;
+    height: 600px;
+    overflow-y: scroll;
+    border: 1px solid #000;
+    background-color: #ff0000;
+    box-shadow: 0 4px 8px rgba(49, 32, 32, 0.2);
+}
+
+.close-btn-parent {
+    display: flex;
+    justify-content: space-between;
+}
+
+.popup .close-btn {
+    width: 15px;
+    display: block;
+    text-align: right;
+
+    padding: 10px;
+    cursor: pointer;
+
+    &:hover {
+        background-color: brown;
+        color: white;
+
+
+    }
+}
+
+@media (max-width:1500px) {
+    #Nuqta {
+        display: none;
+
+    }
+
+    .Nuqta {
+        display: block;
+
+    }
+
+    .navbar {
+        height: 47px;
+        position: a;
+    }
+
+}
+
+.Footer11 {
+    width: 40px;
+    margin-left: 40px;
+}
+
+.buxanka {
+    padding: 20px;
+    margin-top: -40px;
+    margin-bottom: 0;
+}
+
+.buxankaa {
+    padding: 20px;
+    margin-bottom: -40px;
+    color: rgb(0, 5, 161);
+    cursor: pointer;
+}
+
+.menuuu {
+    text-align: center;
+    margin-top: -30px;
+
+}
+
+.Footer-s {
+    text-align: center;
+    cursor: pointer;
+    color: rgb(0, 5, 161);
+    font-weight: 500;
+}
+
+
+
+
+
+
+
+.form-group .error {
+    color: red;
+    margin-top: 5px;
+    font-size: 12px;
+    cursor: pointer;
+}
+
+
+button {
+    background-color: #007BFF;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.message {
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 4px;
+    text-align: center;
+}
+
+.message.success {
+    background-color: #d4edda;
+    color: #155724;
+    border: 1px solid #c3e6cb;
+    cursor: pointer;
+}
+
+.message.error {
+    background-color: #f8d7da;
+    color: #721c24;
+
+
+    cursor: pointer;
+    border: 1px solid #f5c6cb;
+}

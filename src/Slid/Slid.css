@@ -1,0 +1,105 @@
+
+
+.wee {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 24px;
+ 
+  font-weight: bold;
+    
+}
+
+.article {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.box44 {
+  padding: 10px;
+  background-color: #fff;
+  border-radius: 10px;
+  
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.box43 {
+  width: 100%;
+ 
+  height: 300px;
+  border-radius: 10px;
+}
+
+.date {
+  margin-top: 10px;
+  font-size: 14px;
+  color: #666;
+}
+
+.text {
+  margin-top: 5px;
+  font-size: 16px;
+  color: #333;
+}
+
+/* Media query for larger screens */
+@media (min-width: 640px) {
+  .box43 {
+    max-width: 250px;
+  }
+
+  .date {
+    font-size: 16px;
+  }
+
+  .text {
+    font-size: 18px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .box43 {
+    max-width: 300px;
+  }
+
+  .date {
+    font-size: 18px;
+  }
+
+  .text {
+    font-size: 20px;
+  }
+}
+
+.book-section {
+    margin-bottom: 20px;
+    
+  }
+ .wee{
+  text-align: center;
+ }
+  .book-listt {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin: auto;
+    width: 80%;
+    cursor: pointer;
+    justify-content: center;
+  }
+  
+  .book-itemm {
+    border: 1px solid #0c51b8;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    
+  }
+  
+  .book-itemm img {
+    width: 500px;
+    height: 350px;
+   
+  }
+

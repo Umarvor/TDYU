@@ -1,0 +1,798 @@
+{
+    "slider": [
+        {
+            "id": 1,
+            "img": "http://localhost:5173/src/Img2/Feruza%20opa%20kislo.jpg",
+            "chiziq": "______________________________",
+            "kun": "Turli/2024-04-24",
+            "yozuv": "O‘zbekiston Respublikasi Huquqni muhofaza qilish akademiyasi tomonidan yoshlarni vatanparvarlik, jamiyat hayotiga daxldorlik va qonunga hurmat ruhida tarbiyalash bo‘yicha poytaxt tumanlaridagi xotin-qizlar ishtirokida “Vatanning sodiq yoshlari” mavzusidagi o‘qiydi"
+        },
+        {
+            "id": 2,
+            "img": "http://localhost:5173/src/Img2/Feruza%20opa%20kislo.jpg",
+            "chiziq": "______________________________",
+            "kun": "Turli/2024-04-24",
+            "yozuv": "              TDYU professori, yuridik fanlari doktori Feruza Muhitdinova Rossiya xalq xo‘jaligi va davlat xizmati akademiyasida malaka oshirdi."
+        },
+        {
+            "id": 3,
+            "img": "http://localhost:5173/src/Img2/Feruza%20opa%20kislo.jpg",
+            "chiziq": "______________________________",
+            "kun": "Turli/2024-01-14",
+            "yozuv": "              Rossiya xalq xo‘jaligi va davlat xizmati akademiyasida ilmiy seminar tashkil etildi."
+        },
+        {
+            "id": 4,
+            "img": "http://localhost:5173/src/Img2/logonew1.png",
+            "kun": "Turli/2024-02-23",
+            "chiziq": "______________________________",
+            "yozuv": "Құрметті әл-Фараби атындағы ҚазҰУ-нің ректоры, профессорлары, оқытушылары, студенттері мен түлектері!"
+        },
+        {
+            "id": 5,
+            "img": "http://localhost:5173/src/Img2/photo_2024-02-14_17-00-29.jpg",
+            "chiziq": "______________________________",
+            "kun": "Talim/2024-04-24",
+            "yozuv": " Shuhrat Fayziyev va Olim Narziyev CMS da ishtirok etmoqda"
+        },
+        {
+            "id": 6,
+            "img": "http://localhost:5173/src/Img2/3305bccf-7e0e-4aaa-b403-f05a9f692b26.jpeg",
+            "chiziq": "______________________________",
+            "kun": "Talimi/2024-04-24",
+            "yozuv": "Toshkent davlat yuridik universiteti professor-o'qituvchilari va xodimlari tomonidan o'tkazilayotgan turli tadbir va loyihalar, mahorat va sayyor darslar dayjesti"
+        },
+        {
+            "id": 7,
+            "img": "http://localhost:5173/src/Img2/photo_2023-10-24_23-10-12.jpg",
+            "chiziq": "______________________________",
+            "kun": "Turli/2024-04-24",
+            "yozuv": "TDYU va Vengriya Respublikasi oliy ta'lim muassasalari o'rtasida hamkorlikni yo'lga qo'yish masalalari muhokama qilindi"
+        },
+        {
+            "id": 8,
+            "img": "http://localhost:5173/src/Img2/a5d7d549-f767-48e1-8cb4-618b263c3416.png",
+            "kun": "Turli/2023-09-24",
+            "chiziq": "______________________________",
+            "yozuv": "Huquq kitobi chop etildi"
+        },
+        {
+            "id": 9,
+            "img": "http://localhost:5173/src/Img2/22155fec-6953-4b46-b717-0dc50a948f12.png",
+            "chiziq": "______________________________",
+            "kun": "Turli/2023-09-25",
+            "yozuv": " Islambek Rustambekovning xalqaro faolyati yuqori baholandi"
+        }
+    ],
+    "boook": [
+        {
+            "id": 1,
+            "img": "http://localhost:5173/src/Img2/Feruza%20opa%20kislo.jpg",
+            "title": "Feruza Muhitdinova O‘zbekiston Respublikasi Huquqni muhofaza qilish akademiyasi tomonidan tashkil etilgan o‘quv-mashg‘ulotlarida ekspert sifatida ishtirok etdi  O‘zbekiston Respublikasi Huquqni muhofaza qilish akademiyasi tomonidan yoshlarni vatanparvarlik, jamiyat hayotiga daxldorlik va qonunga hurmat ruhida tarbiyalash bo‘yicha poytaxt tumanlaridagi xotin-qizlar ishtirokida “Vatanning sodiq yoshlari” mavzusidagi o‘quv mashg‘ulotlari tashkil etilmoqda. Mazkur o‘quv mashg‘ulotlarida Toshkent davlat yuridik universiteti Davlat va huquq kafedrasi professori, yuridik fanlari doktori Feruza Muhitdinova ham ekspert sifatida ishtirok etib, turli mavzularda ma’ruza qilmoqda."
+        },
+        {
+            "id": 2,
+            "img": "http://localhost:5173/src/Img2/Feruza%20opa%20kislo.jpg",
+            "title": "Feruza Muhitdinova Rossiya xalq xo‘jaligi va davlat xizmati akademiyasi talabalariga ma’ruza qildi TDYU professori, yuridik fanlari doktori Feruza Muhitdinova Rossiya xalq xo‘jaligi va davlat xizmati akademiyasida malaka oshirdi. Malaka oshirish doirasida F.Muhitdinova akademiyaning 1-2-kurs talabalari uchun “Davlat va huquq tarixi” hamda “Sharq mutafakkirlarining siyosiy va huquqiy qarashlarida ideal davlat g‘oyasi” mavzusida ma’ruza qildi."
+        },
+        {
+            "id": 3,
+            "img": "http://localhost:5173/src/Img2/Feruza%20opa%20kislo.jpg",
+            "title": "Ташкент мемлекеттік заң университетінің атынан және жеке өзімнің атымнан айтулы мерейтой – университетіңіздің 90 жылдығымен шын жүректен құттықтауға рұқсат етіңіздер. Осы атаулы күні жоғары білім мен ғылымның дамуына қосқан үлестеріңізге құрмет көрсетеміз. Тоқан жылдықта әл-Фараби атындағы Қазақ ұлттық университеті өзін бай тарихы ғана емес, сонымен қатар заманауи білім және ғылым әлеміндегі әсерлі жетістіктері бар жетекші университет ретінде танытты.ҚазҰУ 150-ші орынды иеленетін QS World University Rankings сияқты халықаралық рейтингтердегі жоғары позициялармен расталған жаһандық білім кеңістігіндегі лайықты мойындалу және QS Graduate рейтингінде көрнекті орын алған Орталық Азиядағы алғашқы университет. Жұмыспен қамту рейтингі – бұл сіздің беделіңіз ғана емес, сонымен қатар білім беру бағдарламаларының сапасы мен түлектердің дайындық деңгейінің көрсеткіші.  Сіздің халықаралық QS Stars Rating System жүйесінде жоғары бес жұлдызды рейтингке ие болуыңызбен расталған жоғары деңгейге ұмтылуыңыз ҚазҰУ-ды аймақтағы көшбасшы және үлгі етеді.2025 жылы 70 жылдық мерейтойын атап өтетін заң факультеті ерекше назар аударуға тұрарлық. Маңызды оқиғалар мен жетістіктерге толы оның даму тарихы бізді құқықтық білім мен ғылым саласындағы одан әрі ынтымақтастық пен өзара іс-қимылға шабыттандырады. "
+        },
+        {
+            "id": 4,
+            "img": "http://localhost:5173/src/Img2/logonew1.png",
+            "title": "Xabaringiz bor, Samarqand shahrida BMTning “Yovvoyi hayvonlarning ko‘chib yuruvchi turlarini saqlash” bo‘yicha Konvensiya ishtirokchilari konferensiyasining 14-yig‘ilishi (CMSCOP14) bo‘lib o‘tmoqda.            Mazkur xalqaro anjuman doirasidagi parallel tadbirlar (side-event)da Toshkent davlat yuridik universiteti Ekologiya huquqi kafedrasi professorlari Shuhrat Fayziyev va Olim Narzullayev ham ishtirok etmoqda.            Anjumanda atrof-muhit muhofazasi, iqlim o‘zgarishi, bioxilma-xillik va yovvoyi hayvonlarning ko‘chib yuruvchi turlarini saqlash bo‘yicha amalga oshirilayotgan ishlar tahlil qilinib, ushbu yo‘nalishlardagi ilg‘or tajribalar muhokama qilinmoqda."
+        },
+        {
+            "id": 5,
+            "img": "http://localhost:5173/src/Img2/photo_2024-02-14_17-00-29.jpg",
+            "title": "O‘zbekiston Respublikasi Konstitutsiyasining yangi tahriri mazmun-mohiyatini yoritish maqsadida TDYU Xalqaro huquq va inson huquqlari kafedrasi professor-o‘qituvchilari tomonidan TDYU Talabalar turar joyi talabalari uchun tashkil etilgan mashg‘ulotda kafedra professor-o‘qituvchilari O.Muhammedjanov, G.Yuldasheva, M.Rahimova, D.Abudullaeva, K.Xoliqulov ma’ruzachi sifatida ishtirok etdi.            Tadbirda talabalar inson huquqlari bo‘yicha dolzarb masalalar bo‘yicha foydali ma’lumotlarga ega bo‘lish bilan birga o‘zlarini qiziqtirgan savollarga javob oldi."
+        },
+        {
+            "id": 6,
+            "img": "http://localhost:5173/src/Img2/3305bccf-7e0e-4aaa-b403-f05a9f692b26.jpeg",
+            "title": "Xabaringiz bor, Samarqand shahrida BMTning “Yovvoyi hayvonlarning ko‘chib yuruvchi turlarini saqlash” bo‘yicha Konvensiya ishtirokchilari konferensiyasining 14-yig‘ilishi (CMSCOP14) bo‘lib o‘tmoqda.            Mazkur xalqaro anjuman doirasidagi parallel tadbirlar (side-event)da Toshkent davlat yuridik universiteti Ekologiya huquqi kafedrasi professorlari Shuhrat Fayziyev va Olim Narzullayev ham ishtirok etmoqda.            Anjumanda atrof-muhit muhofazasi, iqlim o‘zgarishi, bioxilma-xillik va yovvoyi hayvonlarning ko‘chib yuruvchi turlarini saqlash bo‘yicha amalga oshirilayotgan ishlar tahlil qilinib, ushbu yo‘nalishlardagi ilg‘or tajribalar muhokama qilinmoqda."
+        },
+        {
+            "id": 7,
+            "img": "http://localhost:5173/src/Img2/photo_2023-10-24_23-10-12.jpg",
+            "title": "Xabaringiz bor, Samarqand shahrida BMTning “Yovvoyi hayvonlarning ko‘chib yuruvchi turlarini saqlash” bo‘yicha Konvensiya ishtirokchilari konferensiyasining 14-yig‘ilishi (CMSCOP14) bo‘lib o‘tmoqda.            Mazkur xalqaro anjuman doirasidagi parallel tadbirlar (side-event)da Toshkent davlat yuridik universiteti Ekologiya huquqi kafedrasi professorlari Shuhrat Fayziyev va Olim Narzullayev ham ishtirok etmoqda.            Anjumanda atrof-muhit muhofazasi, iqlim o‘zgarishi, bioxilma-xillik va yovvoyi hayvonlarning ko‘chib yuruvchi turlarini saqlash bo‘yicha amalga oshirilayotgan ishlar tahlil qilinib, ushbu yo‘nalishlardagi ilg‘or tajribalar muhokama qilinmoqda."
+        },
+        {
+            "id": 8,
+            "img": "http://localhost:5173/src/Img2/a5d7d549-f767-48e1-8cb4-618b263c3416.png",
+            "title": "Xabaringiz bor, Samarqand shahrida BMTning “Yovvoyi hayvonlarning ko‘chib yuruvchi turlarini saqlash” bo‘yicha Konvensiya ishtirokchilari konferensiyasining 14-yig‘ilishi (CMSCOP14) bo‘lib o‘tmoqda.            Mazkur xalqaro anjuman doirasidagi parallel tadbirlar (side-event)da Toshkent davlat yuridik universiteti Ekologiya huquqi kafedrasi professorlari Shuhrat Fayziyev va Olim Narzullayev ham ishtirok etmoqda.            Anjumanda atrof-muhit muhofazasi, iqlim o‘zgarishi, bioxilma-xillik va yovvoyi hayvonlarning ko‘chib yuruvchi turlarini saqlash bo‘yicha amalga oshirilayotgan ishlar tahlil qilinib, ushbu yo‘nalishlardagi ilg‘or tajribalar muhokama qilinmoqda."
+        },
+        {
+            "id": 9,
+            "img": "http://localhost:5173/src/Img2/22155fec-6953-4b46-b717-0dc50a948f12.png",
+            "title": "Xabaringiz bor, Samarqand shahrida BMTning “Yovvoyi hayvonlarning ko‘chib yuruvchi turlarini saqlash” bo‘yicha Konvensiya ishtirokchilari konferensiyasining 14-yig‘ilishi (CMSCOP14) bo‘lib o‘tmoqda.            Mazkur xalqaro anjuman doirasidagi parallel tadbirlar (side-event)da Toshkent davlat yuridik universiteti Ekologiya huquqi kafedrasi professorlari Shuhrat Fayziyev va Olim Narzullayev ham ishtirok etmoqda.            Anjumanda atrof-muhit muhofazasi, iqlim o‘zgarishi, bioxilma-xillik va yovvoyi hayvonlarning ko‘chib yuruvchi turlarini saqlash bo‘yicha amalga oshirilayotgan ishlar tahlil qilinib, ushbu yo‘nalishlardagi ilg‘or tajribalar muhokama qilinmoqda."
+        }
+    ],
+    "Slayder2": [
+        {
+            "id": 1,
+            "img": "./src/img/yosh olimlar.jpg",
+            "kun": "Ilmiy nashr",
+            "yozuv": "Toshkent davlat yuridik universiteti muassisligidagi “Юридик фанлар ахборотномаси – Вестник юридических наук – Review"
+        },
+        {
+            "id": 2,
+            "img": "http://localhost:5173/src/img/yok%20faoliyatining%20asosiy%20yonalishlari.jpg",
+            "kun": "TDYU olimlar konfirensiyasi",
+            "yozuv": "Toshkent davlat yuridik universiteti Yosh olimlar kengashining “O‘zbekistonda huquqshunoslik fani rivojlanishi"
+        },
+        {
+            "id": 3,
+            "img": "http://localhost:5173/src/img/yosh%20olimlar%20kengashi.jpg",
+            "kun": "YOk faolyatining asosiy yo'nalishlari",
+            "yozuv": "Yoshlarni Universitetning ilmiy va jamoat ishlarida, ilmiy va ilmiy-metodik tadbirlarda faokeng doiradagi yosh olimlarni jal..."
+        },
+        {
+            "id": 4,
+            "img": "http://localhost:5173/src/img/Ilmiynashr.jpg",
+            "kun": "Yosh olimlar kengasji",
+            "yozuv": "Toshkent davlat yuridik univeristeti (TDYU) Yosh olimlar kengashi yosh olimlarni larini himoya qilish maqsadida tash..."
+        }
+    ],
+    "Slayder3": [
+        {
+            "id": 1,
+            "img": "./src/img/Achilova-Liliya-Ilhomovna280646.jpg",
+            "ism": "Achilova Gulhayo",
+            "daraja": "Phd"
+        },
+        {
+            "id": 2,
+            "img": "./src/img/Abzalova-Xurshida-Mirziyatovna280635.jpg",
+            "ism": "Abzalova Muhayyo",
+            "daraja": "Phd"
+        },
+        {
+            "id": 3,
+            "img": "./src/img/Hayrulina-Asal-Baxodirovna030128.jpg",
+            "ism": "Xayrilinna",
+            "daraja": "darajasiz"
+        },
+        {
+            "id": 4,
+            "img": "./src/img/Mamajanov-Abrorbek-Mirabdullayevich030755.jpg",
+            "ism": "Mahmudjon Azimov",
+            "daraja": "Phd"
+        },
+        {
+            "id": 5,
+            "img": "./src/img/Allanova-Azizaxon-Avazxonovna280716.jpg",
+            "ism": "Salobar Anvarova",
+            "daraja": "Phd"
+        },
+        {
+            "id": 6,
+            "img": "./src/img/Karimov-Akramjon-Zaynobiddinovich030238.jpg",
+            "ism": "Abdurahim Mamadjonov",
+            "daraja": "darajasiz"
+        },
+        {
+            "id": 7,
+            "img": "./src/img/sitora_opa280957.jpg",
+            "ism": "Nodira Pirimova",
+            "daraja": "darajasiz"
+        },
+        {
+            "id": 8,
+            "img": "./src/img/Ahrorova-Sayohat-Akram-qizi280653.jpg",
+            "ism": "Gulhayo Siddiqova",
+            "daraja": "darajasiz"
+        },
+        {
+            "id": 9,
+            "img": "./src/img/Karimov-Akramjon-Zaynobiddinovich030238.jpg",
+            "ism": "Bahodir Ashurmatov",
+            "daraja": "Phd"
+        }
+    ],
+    "projects": [
+        {
+            "id": 1,
+            "title": "Marketing.tsul.uz",
+            "description": "Tizim marketing boʻlimi uchun avtomatlashtirilgan onlayn platforma. Bu tizim orqali talabalar toʻlov shartnomalari...",
+            "link": "Website"
+        },
+        {
+            "title": "Degree.tsul.uz",
+            "description": "Degree.tsul.uz - abiturientlar tomonidan oʻz shaxsiy ta’lim jarayonlarini boshqarish...",
+            "link": "Website"
+        },
+        {
+            "title": "Online.tsul.uz",
+            "description": "Online.tsul.uz Tashkent davlat yuridik universiteti bakalavriat yoʻnalishiga xorijiy...",
+            "link": "Website"
+        },
+        {
+            "title": "Tech.tsul.uz",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit...",
+            "link": "Website"
+        },
+        {
+            "title": "Kadr.tsul.uz",
+            "description": "Kadr.tsul.uz - Tashkiliy boʻlimga boʻyicha xodimlarni nazorati kilish va statistikani chiqarish tizimi...",
+            "link": "Website"
+        },
+        {
+            "title": "Topic.tsul.uz",
+            "description": "Topic.tsul.uz - Oʻquv jarayonini avtomatlashtirish xizmat qiladi...",
+            "link": "Website"
+        },
+        {
+            "title": "Contingent.tsul.uz",
+            "description": "Contingent.tsul.uz - Talabalarni bazasini yagona platformada shakllantirish tizimi...",
+            "link": "Website"
+        },
+        {
+            "title": "Qabul.center.tsul.uz",
+            "description": "Qabul.center.tsul.uz Tashkent davlat yuridik universiteti huquqidagi yuridik kadrlarni...",
+            "link": "Website"
+        },
+        {
+            "title": "Ecenter.tsul.uz",
+            "description": "Ecenter.tsul.uz - Universitet Tashkent davlat yuridik universiteti huzuridagi...",
+            "link": "Website"
+        },
+        {
+            "title": "Doc.tsul.uz",
+            "description": "Doc.tsul.uz - Xujjatlarni nazorat qilish va xodimlarga biriktirish elektron tizimi joriy etilgan...",
+            "link": "Website"
+        },
+        {
+            "title": "Reception.tsul.uz",
+            "description": "Reception.tsul.uz xodimlar bilan uchrashuvchilar uchun kelishin nazorat qilish...",
+            "link": "Website"
+        },
+        {
+            "title": "Attestat.tsul.uz",
+            "description": "Attestat.tsul.uz - Universitet xodimlarini attestatsiyadan oʻtkazish boʻyicha...",
+            "link": "Website"
+        }
+    ],
+    "services": [
+        {
+            "title": "Web saytar",
+            "description": "WEB saytar EUM web-studiyasi professionalaridan foydalanib..."
+        },
+        {
+            "title": "CRM",
+            "description": "CRM va ERP tizimlari ichki ishlovchi jarayonlarni optimallashtirish..."
+        },
+        {
+            "title": "Mobil dasturlar",
+            "description": "Mobil ilovalar - bu tezda javob beruvchi dasturlar orqali har bir..."
+        },
+        {
+            "title": "SEO",
+            "description": "“EUM” sizning vebingizning eng yaxshi tartibini ta’minlaydi..."
+        }
+    ],
+    "React": [
+        {
+            "name": "Abdullaeva Maftuna Murot qizi",
+            "title": "O'zbekiston respublikasida konstitutsiyaviy sudlov instituting tashkiliy-huquqiy asoslarini takomillashtirish"
+        },
+        {
+            "name": "Bahramova Mohinur Bahramovna",
+            "title": "Arbitraj yurisdiksiyasini tartibga solish va amaliy muammolar (UNCITRAL namunaviy qonuni asosida)"
+        },
+        {
+            "name": "Tojiiboev Akbar Zafar o'g'li",
+            "title": "Startap faoliyatini fuqarolik-huquqiy tartibga solish"
+        },
+        {
+            "name": "Egamberdiev Eduard Xajibaevich",
+            "title": "O'zbekiston respublikasida nodavlat notijorat tashkilotlarining tashkiliy-huquqiy asoslarini takomillashtirish"
+        },
+        {
+            "name": "Xujanazarov Azizjon Anvarovich",
+            "title": "Adliya organlarining norma ijodkorligi faoliyatini takomillashtirish"
+        },
+        {
+            "name": "Sultanova Saboat Alisherovna",
+            "title": "Norma ijodkorligida «Aqlli tartibga solish» modelini qo‘llashning nazariy-huquqiy masalalari"
+        },
+        {
+            "name": "Normatov Bekzod Akram o'g'li",
+            "title": "O'zbekiston Respublikasida soliq tekshiruvlarini huquqiy tartibga solishni takomillashtirish"
+        },
+        {
+            "name": "Turdiev Xayitjon Usmonqul o'g'li",
+            "title": "Parlament va hukumat munosabatlarining tashkiliy-huquqiy mexanizmini takomillashtirish masalalari"
+        },
+        {
+            "name": "Artikov Dilmurod Raxmatillaevich",
+            "title": "Idoraviy normativ-huquqiy hujjatni haqiqiy emas deb topish to‘g‘risidagi ishlarni sudda ko‘rishning ma’muriy-huquqiy jihatlari"
+        },
+        {
+            "name": "Mo‘minov Bekzod Abduvaxobovich",
+            "title": "Jinoyat ishlarini sudga qadar yuritish ustidan sud nazorati"
+        },
+        {
+            "name": "Xudaykulov Feruzbek Xurramovich",
+            "title": "Qilmishni kvalifikatsiya qilishda jinoyat ob’ektiv tomoni fakultativ belgilarining jinoyat-huquqiy jihatlari"
+        },
+        {
+            "name": "Altiev Razzoq Saidovich",
+            "title": "Firibgarlikning jinoyat-huquqiy va kriminologik jihatlari"
+        },
+        {
+            "name": "Allanova Azizaxon Avazxonovna",
+            "title": "Qonunga xilof ravishda chet elga chiqish yoki O‘zbekiston Respublikasiga kirish uchun javobgarlik: Jinoyat-huquqiy va kriminologik muammolar"
+        },
+        {
+            "name": "Xudoyberdiev Axror Qosimalievich",
+            "title": "Huquq ijodkorligi sotsiologik va ekspertlashtirish tahlilini takomillashtirish"
+        },
+        {
+            "name": "Narimanov Bekzod Abdulvalievich",
+            "title": "O'zbekiston respublikasida nodavlat notijorat tashkilotlarining tashkiliy-huquqiy asoslarini takomillashtirish"
+        },
+        {
+            "name": "Xujanazarov Azizjon Anvarovich",
+            "title": "Adliya organlarining norma ijodkorligi faoliyatini takomillashtirish"
+        },
+        {
+            "name": "Sultanova Saboat Alisherovna",
+            "title": "Norma ijodkorligida «Aqlli tartibga solish» modelini qo‘llashning nazariy-huquqiy masalalari"
+        },
+        {
+            "name": "Normatov Bekzod Akram o'g'li",
+            "title": "O'zbekiston Respublikasida soliq tekshiruvlarini huquqiy tartibga solishni takomillashtirish"
+        },
+        {
+            "name": "Turdiev Xayitjon Usmonqul o'g'li",
+            "title": "Parlament va hukumat munosabatlarining tashkiliy-huquqiy mexanizmini takomillashtirish masalalari"
+        },
+        {
+            "name": "Xudoyberdiev Axror Qosimalievich",
+            "title": "Huquq ijodkorligi sotsiologik va ekspertlashtirish tahlilini takomillashtirish"
+        },
+        {
+            "name": "Narimanov Bekzod Abdulvalievich",
+            "title": "O'zbekiston respublikasida nodavlat notijorat tashkilotlarining tashkiliy-huquqiy asoslarini takomillashtirish"
+        },
+        {
+            "name": "Xujanazarov Azizjon Anvarovich",
+            "title": "Adliya organlarining norma ijodkorligi faoliyatini takomillashtirish"
+        },
+        {
+            "name": "Sultanova Saboat Alisherovna",
+            "title": "Norma ijodkorligida «Aqlli tartibga solish» modelini qo‘llashning nazariy-huquqiy masalalari"
+        },
+        {
+            "name": "Normatov Bekzod Akram o'g'li",
+            "title": "O'zbekiston Respublikasida soliq tekshiruvlarini huquqiy tartibga solishni takomillashtirish"
+        },
+        {
+            "name": "Turdiev Xayitjon Usmonqul o'g'li",
+            "title": "Parlament va hukumat munosabatlarining tashkiliy-huquqiy mexanizmini takomillashtirish masalalari"
+        }
+    ],
+    "names": [
+        {
+            "img": "./src/img2/Снимок экрана 2024-05-21 113620.png"
+        },
+        {
+            "firstName": "Abdullaev Rustam Kaхramanovich",
+            "daraja": "darajasiz",
+            "kafedra": "Xalqaro huquq va inson huquqlari kafedrasi",
+            "a": ">>"
+        },
+        {
+            "firstName": "Abdurasulova Kumrinisa Raimkulovna",
+            "lastName": "Smith",
+            "daraja": "Phd",
+            "kafedra": "Xalqaro huquq va inson huquqlari kafedrasi",
+            "a": ">>"
+        },
+        {
+            "firstName": "Abdusamiyeva Dilrabo Abduvaxob qizi",
+            "lastName": "Johnson",
+            "daraja": "darajasiz",
+            "kafedra": "Xalqaro huquq va inson huquqlari kafedrasi",
+            "a": ">>"
+        },
+        {
+            "firstName": "Patricia",
+            "lastName": "Williams",
+            "daraja": "Phd",
+            "kafedra": "Xalqaro huquq va inson huquqlari kafedrasi",
+            "a": ">>"
+        },
+        {
+            "firstName": "Abduvaliyev Maqsudjon Abdurashid o'g'li",
+            "lastName": "Brown",
+            "daraja": "Yuridik fanlar doktori",
+            "kafedra": "Xalqaro huquq va inson huquqlari kafedrasi",
+            "a": ">>"
+        },
+        {
+            "firstName": "Robert",
+            "lastName": "Jones",
+            "daraja": "Phd",
+            "kafedra": "Xalqaro huquq va inson huquqlari kafedrasi",
+            "a": ">>"
+        },
+        {
+            "firstName": "Abzalova Xurshida Mirziyatovna",
+            "lastName": "Garcia",
+            "daraja": "darajasiz",
+            "kafedra": "Xalqaro huquq va inson huquqlari kafedrasi",
+            "a": ">>"
+        },
+        {
+            "firstName": "Achilova Liliya Ilhomovna",
+            "lastName": "Miller",
+            "daraja": "Phd",
+            "kafedra": "Xalqaro huquq va inson huquqlari kafedrasi",
+            "a": ">>"
+        },
+        {
+            "firstName": "Barbara",
+            "lastName": "Davis",
+            "daraja": "darajasiz",
+            "kafedra": "Xalqaro huquq va inson huquqlari kafedrasi",
+            "a": ">>"
+        },
+        {
+            "firstName": "Ahrorova Sayohat Akram qizi",
+            "lastName": "Martinez",
+            "daraja": "Phd",
+            "kafedra": "Xalqaro huquq va inson huquqlari kafedrasi",
+            "a": ">>"
+        },
+        {
+            "firstName": "Akobirova Sarvar Tuyevna",
+            "lastName": "Hernandez",
+            "daraja": "Yuridik fanlar doktori",
+            "kafedra": "Xalqaro huquq va inson huquqlari kafedrasi",
+            "a": ">>"
+        },
+        {
+            "firstName": "Allaberganova Nodira Maxmud qizi",
+            "lastName": "Lopez",
+            "daraja": "Phd",
+            "kafedra": "Xalqaro huquq va inson huquqlari kafedrasi",
+            "a": ">>"
+        },
+        {
+            "firstName": "Allanova Azizaxon Avazxonovna",
+            "lastName": "Gonzalez",
+            "daraja": "darajasiz",
+            "kafedra": "Xalqaro huquq va inson huquqlari kafedrasi",
+            "a": ">>"
+        },
+        {
+            "firstName": "Almosova Shahnoza Sobirovna",
+            "lastName": "Perez",
+            "daraja": "Phd",
+            "kafedra": "Xalqaro huquq va inson huquqlari kafedrasi",
+            "a": ">>"
+        },
+        {
+            "firstName": "Altiev Razzoq Saidovich",
+            "lastName": "Roberts",
+            "daraja": "Yuridik fanlar doktori",
+            "kafedra": "Xalqaro huquq va inson huquqlari kafedrasi",
+            "a": ">>"
+        },
+        {
+            "firstName": "Artikov Dilmurod Raxmatillayevich",
+            "lastName": "Adams",
+            "daraja": "Phd",
+            "kafedra": "Xalqaro huquq va inson huquqlari kafedrasi",
+            "a": ">>"
+        },
+        {
+            "firstName": "Askarov Jaloliddin To`ychiyevich",
+            "lastName": "Nelson",
+            "daraja": "darajasiz",
+            "kafedra": "Xalqaro huquq va inson huquqlari kafedrasi",
+            "a": ">>"
+        },
+        {
+            "firstName": "Aslonova Laylo Olimovna",
+            "lastName": "Carter",
+            "daraja": "Phd",
+            "kafedra": "Xalqaro huquq va inson huquqlari kafedrasi",
+            "a": ">>"
+        },
+        {
+            "firstName": "Atajanov Xamdambek Kuromboyevich",
+            "lastName": "Mitchell",
+            "daraja": "darajasiz",
+            "kafedra": "Xalqaro huquq va inson huquqlari kafedrasi",
+            "a": ">>"
+        },
+        {
+            "firstName": "Avazov Bobomurod Sultonmurodovich",
+            "lastName": "Parker",
+            "daraja": "Phd",
+            "kafedra": "Xalqaro huquq va inson huquqlari kafedrasi",
+            "a": ">>"
+        },
+        {
+            "firstName": "Axmedov Davron Quvonovich",
+            "lastName": "Collins",
+            "daraja": "Yuridik fanlar doktori",
+            "kafedra": "Xalqaro huquq va inson huquqlari kafedrasi",
+            "a": ">>"
+        },
+        {
+            "firstName": "Axmedova Guzalkhon Utkurovna",
+            "lastName": "Stewart",
+            "daraja": "Phd",
+            "kafedra": "Xalqaro huquq va inson huquqlari kafedrasi",
+            "a": ">>"
+        },
+        {
+            "firstName": "Axmedshaeva Mavluda Axatovna",
+            "lastName": "Flores",
+            "daraja": "darajasiz",
+            "kafedra": "Xalqaro huquq va inson huquqlari kafedrasi",
+            "a": ">>"
+        },
+        {
+            "firstName": "Axrorov Adxamjon Asrorkul o'g'li",
+            "lastName": "Washington",
+            "daraja": "Phd",
+            "kafedra": "Xalqaro huquq va inson huquqlari kafedrasi",
+            "a": ">>"
+        },
+        {
+            "firstName": "Bahramova Mohinur Bahramovna",
+            "lastName": "Butler",
+            "daraja": "darajasiz",
+            "kafedra": "Xalqaro huquq va inson huquqlari kafedrasi",
+            "a": ">>"
+        },
+        {
+            "firstName": "Baratov Azim Shamsievich",
+            "lastName": "Harris",
+            "daraja": "Phd",
+            "kafedra": "Xalqaro huquq va inson huquqlari kafedrasi",
+            "a": ">>"
+        },
+        {
+            "firstName": "Batirova Kamolaxon Yusupovna",
+            "lastName": "Wood",
+            "daraja": "darajasiz",
+            "kafedra": "Xalqaro huquq va inson huquqlari kafedrasi",
+            "a": ">>"
+        },
+        {
+            "firstName": "Baxodirov Javlonbek Baxodirovich",
+            "lastName": "Martinez",
+            "daraja": "Phd",
+            "kafedra": "Xalqaro huquq va inson huquqlari kafedrasi",
+            "a": ">>"
+        },
+        {
+            "firstName": "Baxriddinova Muyassarxon Raximovna",
+            "lastName": "Hernandez",
+            "daraja": "darajasiz",
+            "kafedra": "Xalqaro huquq va inson huquqlari kafedrasi",
+            "a": ">>"
+        },
+        {
+            "firstName": "Bazarova Dildora Baxadirovna",
+            "lastName": "Lopez",
+            "daraja": "Phd",
+            "kafedra": "Xalqaro huquq va inson huquqlari kafedrasi",
+            "a": ">>"
+        },
+        {
+            "firstName": "Bekov Ixtiyor Rustamovich",
+            "lastName": "Gonzalez",
+            "daraja": "darajasiz",
+            "kafedra": "Xalqaro huquq va inson huquqlari kafedrasi",
+            "a": ">>"
+        },
+        {
+            "firstName": "Boboyev Xalimboy Boboyevich",
+            "lastName": "Perez",
+            "daraja": "Phd",
+            "kafedra": "Xalqaro huquq va inson huquqlari kafedrasi",
+            "a": ">>"
+        },
+        {
+            "firstName": "Boqiyev Jahongir Nurmatjon o‘g‘li",
+            "lastName": "Roberts",
+            "daraja": "Phd",
+            "kafedra": "Xalqaro huquq va inson huquqlari kafedrasi",
+            "a": ">>"
+        },
+        {
+            "firstName": "Boqiyev Jahongir Nurmatjon o‘g‘li",
+            "lastName": "Adams",
+            "daraja": "Phd",
+            "kafedra": "Xalqaro huquq va inson huquqlari kafedrasi",
+            "a": ">>"
+        },
+        {
+            "firstName": "Botirov Xurshid Ilyos o‘g‘li",
+            "lastName": "Nelson",
+            "daraja": "darajasiz",
+            "kafedra": "Xalqaro huquq va inson huquqlari kafedrasi",
+            "a": ">>"
+        },
+        {
+            "firstName": "Boymurodov Botir Panji o'g'li",
+            "lastName": "Carter",
+            "daraja": "Phd",
+            "kafedra": "Xalqaro huquq va inson huquqlari kafedrasi",
+            "a": ">>"
+        },
+        {
+            "firstName": "Bozorova Nasiba Po'lotjonovna",
+            "lastName": "MitchellYuridik fanlar doktori",
+            "daraja": "darajasiz",
+            "kafedra": "Xalqaro huquq va inson huquqlari kafedrasi",
+            "a": ">>"
+        },
+        {
+            "firstName": "Burxanxodjaeva Xurshida Vaxdatovna",
+            "lastName": "Parker",
+            "daraja": "Phd",
+            "kafedra": "Xalqaro huquq va inson huquqlari kafedrasi",
+            "a": ">>"
+        },
+        {
+            "firstName": "Choriyev Orifjon Abdisobir o'g'li",
+            "lastName": "Collins",
+            "daraja": "Yuridik fanlar doktori",
+            "kafedra": "Xalqaro huquq va inson huquqlari kafedrasi",
+            "a": ">>"
+        },
+        {
+            "firstName": "Davronov Doniyorbek Abdullo o'g'li",
+            "lastName": "Stewart",
+            "daraja": "Phd",
+            "kafedra": "Xalqaro huquq va inson huquqlari kafedrasi",
+            "a": ">>"
+        },
+        {
+            "firstName": "Djumanov Askar",
+            "lastName": "Flores",
+            "daraja": "Yuridik fanlar doktori",
+            "kafedra": "Xalqaro huquq va inson huquqlari kafedrasi",
+            "a": ">>"
+        },
+        {
+            "firstName": "Djurayev Iftixorjon Tadjibayevich",
+            "lastName": "Washington",
+            "daraja": "Phd",
+            "kafedra": "Xalqaro huquq va inson huquqlari kafedrasi",
+            "a": ">>"
+        },
+        {
+            "firstName": "Egamberdiyev Azamat Uktamovich",
+            "lastName": "Butler",
+            "daraja": "darajasiz",
+            "kafedra": "Xalqaro huquq va inson huquqlari kafedrasi",
+            "a": ">>"
+        },
+        {
+            "firstName": "Egamberdiyev Dilshodjon Alisherovich",
+            "lastName": "Harris",
+            "daraja": "Phd",
+            "kafedra": "Xalqaro huquq va inson huquqlari kafedrasi",
+            "a": ">>"
+        },
+        {
+            "firstName": "Ermatov G'ayratjon Oqmirzaevich",
+            "lastName": "Wood",
+            "daraja": "darajasiz",
+            "kafedra": "Xalqaro huquq va inson huquqlari kafedrasi",
+            "a": ">>"
+        }
+    ],
+    "Talim": [
+        {
+            "text": "Bugun Prezident Shavkat Mirziyoyev raisligida mamlakatimizda taʼlim-tarbiya tizimini takomillashtirish, ilm-fan sohasi rivojini jadallashtirish masalalari muhokamasi boʻyicha videoselektor yigʻilishi boʻlib oʻtdi.\n\nDavlatimiz rahbari Oʻqituvchi va murabbiylar kuni munosabati bilan soha vakillariga yoʻllagan tabrik nutqida taʼkidlaganidek, taraqqiyotning tamal toshi ham, mamlakatni qudratli, millatni buyuk qiladigan kuch ham ilm-fan, taʼlim va tarbiyadir.\n\nShuning uchun ham, Oʻzbekistonda taʼlim tizimini kompleks rivojlantirish, malakali kadrlar tayyorlash maqsadlariga katta kuch va mablagʻlar yoʻnaltirilmoqda. Maktabgacha taʼlim, maktab va oliy taʼlim tizimlari, ilmiy-tadqiqot muassasalari faoliyatida sifat oʻzgarishlari roʻy bermoqda.\n\n– Biz ustozni otaday ulugʻ deb bilgan, doimo ardoqlagan maʼrifatparvar xalqning vakillarimiz. Men ham oʻqituvchi, muallim deganda oʻzim uchun eng aziz va hurmatli boʻlgan, ziyoli va zamonaviy, samimiy va mehribon insonlarni tasavvur qilaman. Chunki hammamizga ham shu muallim saboq va taʼlim berib, mehribon ota-onalarimiz qatorida tarbiyalagan, – dedi davlat rahbari yigʻilish avvalida. – Bugungi kunda Oʻzbekistonning yangi taraqqiyot davri poydevorini yaratyapmiz. Bunda bizning eng yaqin koʻmakchilarimiz ustoz va murabbiylar, ilmiy va ijodkor ziyolilardir.\n\nHar bir oila, har bir bola hayoti maktab bilan bogʻlangani, bu masala davlatning, jamiyatning eng muhim ishi ekani taʼkidlandi.\n\n– Hammamiz aziz farzandlarimiz hayoti va taqdirini oʻqituvchi va murabbiylarga ishonib topshiramiz. Mana shunday beqiyos boylik posbonlari, kelajak bunyodkorlari boʻlgan bu moʻtabar zotlarga munosib hurmat-ehtirom koʻrsatishimiz kerak, – dedi Prezident.\n\nYigʻilishda bugungi modernizatsiya jarayonlari, islo..."
+        }
+    ],
+    "Savol": [
+        {
+            "id": 1,
+            "title": "Talabalar qaysi yo'nalishlar bo'yicha ta'lim oladilar?",
+            "content": "TDYUda bakalavriat ta’lim yo‘nalishi quyidagi soha mutaxassisliklari bo‘yicha amalga oshiriladi: - Davlat-huquqiy faoliyati; - Fuqarolik-huquqiy faoliyati; - Tadbirkorlik-huquqiy faoliyati; - Jinoiy-huquqiy faoliyat; - Xalqaro-huquqiy faoliyat."
+        },
+        {
+            "id": 2,
+            "title": "TDYU o'quv rejasiga qanday modullar kiritilgan?",
+            "content": "TDYU o‘quv rejasi fan va ta’limning quyidagi yo‘nalishlari bo‘yicha o‘quv modullarini o‘z ichiga oladi: Gumanitar va ijtimoiy-iqtisodiy fanlar; Matematik va tabiiy-ilmiy fanlar; Umumkasbiy fanlar; Maxsus fanlar (kasbiy mutaxassislik); Qo‘shimcha fanlar. Har bir yo‘nalish bo‘yicha o‘qitishning zamonaviy shakl va metodlariga, pedagogik, axborot-kommunikatsion, innovatsion texnologiyalarga asoslangan o‘quv jarayonini tashkil qilishni ko‘zda tutgan, nazariy tayyorgarlikning huquqni qo‘llash amaliyoti bilan uzviy bog‘liq tarzda ta’minlash, talabalarda analitik tafakkurni shakllantirish, yangi bilimlarni mustaqil o‘zlashtirish va ulardan foydalana olish, davlat qurilishi va boshqaruvi, sud-huquq tizimini modernizatsiya qilish, bozor islohotlarini chuqurlashtirishning huquqiy asoslarini rivojlantirish, shu sohadagi xalqaro tajribani o‘rganishning dolzarb huquqiy muammolari bo‘yicha kompleks ilmiy tadqiqotlar olib borish, ilmiy ish natijalarini huquqni qo‘llash amaliyoti va o‘quv jarayoniga samarali tatbiq etishni ta’minlashga qaratilgan ta’limning modul tizimi tashkil qilingan. TDYUda ta’lim necha tilda olib boriladi?"
+        },
+        {
+            "id": 3,
+            "title": "TDYUda ta'lim necha tilda olib boriladi?",
+            "content": "TDYUda ta’lim davlat va rus tillarida olib boriladi. Shuningdek, TDYUda yuridik fanlar bo‘yicha fakultativ mashg‘ulotlar ingliz, nemis va frantsuz tillarida olib boriladi. TDYUda Yapon tili markazi faoliyat yuritadi. Bu markazda talabalar 1-kursdan boshlab yapon tili va huquqini o‘rganish imkoniyatiga egalar. Tahsil bepul amalga oshiriladi."
+        },
+        {
+            "id": 4,
+            "title": "Talabalar bilimi qanday baholanadi?",
+            "content": "Toshkent davlat yuridik universitetida o‘qitishning modul tizimi sharoitlarida talabalar bilimini nazorat qilish tartibi va baholash mezonlari to‘g‘risidagi nizom (2016 yil 22 aprel, ro‘yxat raqami 2780) asosida o‘quv jarayoni tashkil etilgan bo‘lib, oliy ta’lim tizimida ilk bor Toshkent davlat yuridik universitetida talabalar bilimini baholashning yangi zamonaviy tizimi yo‘lga qo‘yilgan. Talabalar bilimi bevosita joriy nazorat, oraliq nazorat va yakuniy nazorat orqali aniqlanadi. Talabalarning bilim saviyasi va o‘zlashtirish darajasini davlat ta’lim standartlariga muvofiqligini ta’minlash uchun universitetda joriy, oraliq va yakuniy nazorat turlari o‘tkaziladi. Talabaning har bir modul bo‘yicha o‘zlashtirish darajasi talabalarning bilim, malaka va ko‘nikmalarini baholashning reyting tizimi asosida ballarda aks ettiriladi. Talabaning semestr mobaynidagi har bir modul bo‘yicha o‘zlashtirishi 100 ballik tizim asosida butun sonlar bilan baholanadi. 100 ball nazorat turlari bo‘yicha quyidagicha taqsimlanadi: joriy nazorat — 30 ball; oraliq nazorat — 20 ball; yakuniy nazorat — 50 ball."
+        },
+        {
+            "id": 5,
+            "title": "O'quv adabiyotlarini qayerdan olsa bo'ladi?",
+            "content": "TDYU keng qamrovli ilmiy fond va boy yuridik kutubxonaga ega. Talabalar o‘qish jarayonida o‘quv manbalaridan bevosita foydalanish imkoniyatiga ega. O‘quv adabiyotlarini, shuningdek, “Sharq” nashriyoti do‘konlari va yuridik adabiyotga ixtisoslashgan maxsus kitob do‘konlaridan sotib olish mumkin.Talabalarning amaliyoti qanday tashkil etilgan? Taqsimot bo‘yicha ishga joylashish imkoniyati bormi?TDYU doktoranturasiga o‘qishga kirish jarayoni qanday?Toshkent davlat yuridik universiteti avvalgi institutdan nimasi bilan farq qiladi?  TDYUda xorijliklar tahsil olishi mumkinmi?"
+        },
+        {
+            "id": 6,
+            "title": "Talabalarni amaliyoti qanday tashkil etilgan?",
+            "content": "TDYUda talabalarning o‘qish davrida olgan amaliy va nazariy bilimlarini amaliyotda mustahkamlash masalasiga alohida e’tibor qaratilgan bo‘lib, Yuridik ta’lim muassasalari (harbiy, maxsus oliy ta’lim muassasalaridan tashqari) talabalari tomonidan tanishtiruv va malakaviy amaliyotni, shuningdek stajirovkani o‘tash tartibi to‘g‘risida nizom (2013 yil 31 dekabr, ro‘yxat raqami 2548) asosida bakalavriatning 2-kurs talabalari uchun tanishtiruv amaliyoti, 3-kurs va magistratura 1-kurs talabalari uchun malakaviy amaliyot hamda 4-kurs talabalari uchun diplom oldi amaliyoti, shuningdek 2-kurs magistratura talabalari uchun stajirovka amalga oshiriladi. Talabalar amaliyoti davlat hokimiyati va boshqaruvi organlari, sud, huquqni muhofaza qiluvchi organlar, ishlab chiqarish, xo‘jalik, tijorat tashkilotlari, moliya-bank va boshqa muassasalarning yuridik xizmatlarida tashkil etilgan."
+        },
+        {
+            "id": 7,
+            "title": "Taqsimot bo'yicha ishga joylashish imkoni bormi?",
+            "content": "TDYU 4-kurs bitiruvchilarini ish bilan ta’minlash maqsadida ular uchun har yili bahor oyida “Karera kuni” tashkil etiladi. Ushbu tadbirda ishtirok etish uchun manfaatdor davlat boshqaruvi organlari, sud va huquqni muhofaza qiluvchi organlar, bank va moliya muassasalari hamda boshqa tashkilotlardan vakillar taklif etiladi. Bundan maqsad bitiruvchilarga vakant joylari, ishga joylashishning zaruriy talab va sharoitlari, shuningdek, maosh darajalari va qiziqtirgan savollariga mehmonlardan javob olish, vakant joylar haqidagi takliflarni ko‘rib chiqish imkoniga ega bo‘lish. Taqdim etilgan kvota asosida davlat granti bo‘yicha tahsil olgan bitiruvchi taqsimot bo‘yicha 3 yildan kam bo‘lmagan muddatda ish bilan ta’minlanadi."
+        },
+        {
+            "id": 8,
+            "title": "TDYU doktoranturasiga o'qishga kirish jarayoni qanday?",
+            "content": "Oliy ta’limdan keyingi ta’lim TDYUda O‘zbekiston Respublikasi Prezidentining 2012 yil 24 iyuldagi № UP-4456 “Oliy toifadagi ilmiy va ilmiy-pedagogik kadrlarni tayyorlash va attestatsiyadan o‘tkazish tizimini kelgusi takomillashtirish to‘g‘risida”gi buyrug‘i hamda 2012 yil 28 dekabrdagi Vazirlar Mahkamasining № 365 “Oliy toifadagi ilmiy va ilmiy-pedagogik kadrlarni oliy ta’limdan keyingi ta’limini amalga oshirish va attestatsiyadan o‘tkazish tizimini takomillashtirish chora-tadbirlari haqida”gi Qaroriga muvofiq uch yil muddatda quyidagicha amalga oshiriladi: Katta ilmiy xodim-izlanuvchilar instituti – oliy toifadagi ilmiy va ilmiy-pedagogik kadrlarni mutaxassisligi bo‘yicha oliy ta’limdan keyingi ta’lim shakli bo‘lib, oliy ta’lim muassasasida fan doktori ilmiy darajasini olish uchun ixtisoslikni chuqur o‘rganish va ishlab chiqarishdan ajralgan holda doktorlik dissertatsiyasini tayyorlash va himoya qilish maqsadida ilmiy izlanishlar olib borish uchun tashkil qilinadi; Mustaqil izlanuvchilik - oliy toifadagi ilmiy va ilmiy-pedagogik kadrlarni mutaxassisligi bo‘yicha oliy ta’limdan keyingi ta’lim shakli bo‘lib, oliy ta’lim muassasasida fan doktori ilmiy darajasini olish uchun ixtisoslikni chuqur o‘rganish va ishlab chiqarishdan ajralmagan holda doktorlik dissertatsiyasini tayyorlash va himoya qilish maqsadida ilmiy izlanishlar olib borish uchun tashkil qilinadi. Oliy ta’limdan keyingi ta’lim institutlarining katta ilmiy xodim-izlanuvchi lavozimiga qabul 2012 yil 28 dekabrdagi № 365 Vazirlar Mahkamasining Qaroridagi 2-Ilovaga muvofiq TDYUda tuziladigan maxsus komissiya tomonidan tanlov asosida amalga oshiriladi. TDYU qabul kvotalariga muvofiq har yili 1 sentyabrdan kechiktirmagan holda ommaviy axborot vositalarida xohlovchilardan katta ilmiy xodim-izlanuvchi sifatida tahsil olish uchun hujjat qabul qilish to‘g‘risida e’lon beradi. E’londa hujjat qabul qilish muddati, talab qilinadigan hujjatlar hamda topshiriladigan imtihonlar ro‘yxati, o‘qish uchun to‘lov shartlari (byudjet va to‘lov-kontrakt shartlari) va boshqa zaruriy ma’lumotlarni ko‘rsatadi. Hujjatlar 15 oktyabrdan 15 noyabrgacha qabul qilinadi. Oliy ta’limdan keyingi ta’lim institutlarida o‘qish uchun xohlovchilarni tanlov asosida saralash kirish imtihonlari natijalari asosida amalga oshiriladi. Kirish imtihonlari 1 dekabrdan 20 dekabrgacha bo‘lgan davrda o‘tkaziladi. Oliy ta’limdan keyingi ta’lim institutlariga katta ilmiy xodim-izlanuvchi sifatida kiradigan yoki mustaqil izlanuvchi sifatida rasmiylashtiriladigan shaxslar katta ilmiy xodim va mustaqil tadqiqotchilarga qo‘yiladigan davlat talablariga munosib bo‘lishlari shart."
+        },
+        {
+            "id": 9,
+            "title": "Toshkent davlat yuridik universiteti avvalgi institutdan nimasi bilan farq qiladi?",
+            "content": "O‘zbekiston Respublikasi Prezidentining 2013 yil 28 iyundagi “Yuridik kadrlar tayyorlash tizimini yanada takomillashtirish chora-tadbirlari to‘g‘risida”gi PQ–1990-son qaroriga asosan Toshkent davlat yuridik instituti Toshkent davlat yuridik universiteti etib qayta tashkil etilib, “Yurisprudensiya” mutaxassisligi bo‘yicha yuridik kadrlarni tayyorlash, qayta tayyorlash bo‘yicha bazaviy davlat oliy ta’lim va ilmiy-metodik muassasasi etib belgilangan. Toshkent davlat yuridik universitetida O‘zbekiston Respublikasida ilk bor oliy ta’lim tizimida umume’tirof etilgan xalqaro ta’lim standartlari va talablariga muvofiq ravishda o‘qitishning modulli tizimi asosida o‘quv jarayoni tashkil etilgan. Mazkur tizim doirasida ilg‘or ta’lim texnologiyalarini qo‘llagan holda, talabalarda amaliy ko‘nikmalarni shakllantirishga alohida e’tibor qaratilgan. O‘qitishning modul tizimi sharoitlarida har bir yo‘nalish bo‘yicha o‘quv jarayoni nazariy tayyorgarlikning huquqni qo‘llash faoliyati bilan uzviy bog‘liqligi, talabalarda tahliliy fikrlash, yangi bilimlarni mustaqil ravishda egallash va ulardan foydalanish ko‘nikmasini shakllantirishni ta’minlaydigan o‘qitishning zamonaviy shakl va metodlari, pedagogik, axborot-kommunikatsiya, innovatsion texnologiyalar asosida tashkil etilgan. Shuningdek, ta’lim berishda davlat qurilishi va boshqaruvi, sud-huquq tizimini modernizatsiya qilish, bozor islohotlarini chuqurlashtirishning huquqiy asoslarini rivojlantirishning dolzarb huquqiy muammolari bo‘yicha kompleks ilmiy tadqiqotlar o‘tkazish, ushbu sohadagi xalqaro tajribani o‘rganish huquqni qo‘llash amaliyotiga, o‘quv jarayoniga ilmiy ishlanmalar natijalarini samarali joriy etishni ta’minlashga alohida e’tibor berilgan. Jumladan, talabalarning yuridik yozma ko‘nikmasi, kompyuter savodxonligi, xorijiy tillarni egallashi, tahlil qilish qobiliyati va yuridik faoliyatning tegishli sohalarini boshqarish ko‘nikmalarini rivojlantirishga katta ahamiyat berilgan. Universitet tuzilmasida O‘quv-uslubiy boshqarma tomonidan DTS, malaka talablari va o‘quv rejalarga muvofiq holda o‘quv jarayoni tizimli yo‘lga qo‘yilgan."
+        },
+        {
+            "id": 10,
+            "title": "TDYUda xorijliklar tahsil olishi mumkinmi?",
+            "content": "O‘zbekiston Respublikasi Prezidentining 2013 yil 28 iyundagi “Yuridik kadrlar tayyorlash tizimini yanada takomillashtirish chora-tadbirlari to‘g‘risida”gi PQ–1990-son qaroriga asosan Toshkent davlat yuridik instituti Toshkent davlat yuridik universiteti etib qayta tashkil etilib, “Yurisprudensiya” mutaxassisligi bo‘yicha yuridik kadrlarni tayyorlash, qayta tayyorlash bo‘yicha bazaviy davlat oliy ta’lim va ilmiy-metodik muassasasi etib belgilangan. Toshkent davlat yuridik universitetida O‘zbekiston Respublikasida ilk bor oliy ta’lim tizimida umume’tirof etilgan xalqaro ta’lim standartlari va talablariga muvofiq ravishda o‘qitishning modulli tizimi asosida o‘quv jarayoni tashkil etilgan. Mazkur tizim doirasida ilg‘or ta’lim texnologiyalarini qo‘llagan holda, talabalarda amaliy ko‘nikmalarni shakllantirishga alohida e’tibor qaratilgan. O‘qitishning modul tizimi sharoitlarida har bir yo‘nalish bo‘yicha o‘quv jarayoni nazariy tayyorgarlikning huquqni qo‘llash faoliyati bilan uzviy bog‘liqligi, talabalarda tahliliy fikrlash, yangi bilimlarni mustaqil ravishda egallash va ulardan foydalanish ko‘nikmasini shakllantirishni ta’minlaydigan o‘qitishning zamonaviy shakl va metodlari, pedagogik, axborot-kommunikatsiya, innovatsion texnologiyalar asosida tashkil etilgan. Shuningdek, ta’lim berishda davlat qurilishi va boshqaruvi, sud-huquq tizimini modernizatsiya qilish, bozor islohotlarini chuqurlashtirishning huquqiy asoslarini rivojlantirishning dolzarb huquqiy muammolari bo‘yicha kompleks ilmiy tadqiqotlar o‘tkazish, ushbu sohadagi xalqaro tajribani o‘rganish huquqni qo‘llash amaliyotiga, o‘quv jarayoniga ilmiy ishlanmalar natijalarini samarali joriy etishni ta’minlashga alohida e’tibor berilgan. Jumladan, talabalarning yuridik yozma ko‘nikmasi, kompyuter savodxonligi, xorijiy tillarni egallashi, tahlil qilish qobiliyati va yuridik faoliyatning tegishli sohalarini boshqarish ko‘nikmalarini rivojlantirishga katta ahamiyat berilgan. Universitet tuzilmasida O‘quv-uslubiy boshqarma tomonidan DTS, malaka talablari va o‘quv rejalarga muvofiq holda o‘quv jarayoni tizimli yo‘lga qo‘yilgan."
+        }
+    ],
+    "Book": [
+        {
+            "id": 1,
+            "title": "Судебное правотворчество в России. Верещагин А.2004",
+            "image": "https://i0.wp.com/library-tsul.uz/wp-content/uploads/2024/04/sudebnoe-pravotvorchestvo-v-rossii.-vereshhagin-a.2004.jpg?resize=1443%2C2048&ssl=1"
+        },
+        {
+            "id": 2,
+            "title": "Адвокат представитель в гражданском процессе России. Коноколов Э",
+            "image": "https://i0.wp.com/library-tsul.uz/wp-content/uploads/2024/04/advokat-predstavitel-v-grazhdanskom-prouesse-rossii.-kolokolova-e-1.jpg?resize=1443%2C2048&ssl=1"
+        },
+        {
+            "id": 3,
+            "title": "Узбекистонда очик фукаролик жамиятининг шаклланиши. Шарипжанов М. 2003",
+            "image": "https://i0.wp.com/library-tsul.uz/wp-content/uploads/2024/02/%D1%9Ezbekistonda-ochi%D2%9B-fu%D2%9Barolik-zhamiyatining-shakllanishi.-sharifh%D1%9Ezhaev-m.-2003.jpg?w=1413&ssl=1"
+        },
+        {
+            "id": 4,
+            "title": "Ҳисоб-китоб. Умаров У. 2003",
+            "image": "https://i0.wp.com/library-tsul.uz/wp-content/uploads/2024/02/%D2%B3isob-kitob.-umarov-u.-2003.jpg?w=1494&ssl=1"
+        },
+        {
+            "id": 5,
+            "title": "Ўзбекистон қонунчилиги таҳлили. Uzbek Law Review. Обзор законодательства Узбекистана. №1, 2007 йил",
+            "image": "https://i0.wp.com/library-tsul.uz/wp-content/uploads/2022/08/d19ed0b7d0b1d0b5d0bad0b8d181d182d0bed0bd-d29bd0bed0bdd183d0bdd187d0b8d0bbd0b8d0b3d0b8-d182d0b0d2b3d0bbd0b8d0bbd0b8-uzbek-law-review-d0be_630762b2523da.jpeg?w=564&ssl=1"
+        },
+        {
+            "id": 6,
+            "title": "Ўзбекистон қонунчилиги таҳлили. Uzbek Law Review. Обзор законодательства Узбекистана. №2, 2007 йил",
+            "image": "https://i0.wp.com/library-tsul.uz/wp-content/uploads/2022/08/d19ed0b7d0b1d0b5d0bad0b8d181d182d0bed0bd-d29bd0bed0bdd183d0bdd187d0b8d0bbd0b8d0b3d0b8-d182d0b0d2b3d0bbd0b8d0bbd0b8-uzbek-law-review-d0be_630762b2523da.jpeg?w=564&ssl=1"
+        },
+        {
+            "id": 7,
+            "title": "Юридик фанлар ахборотномаси. № 1. 2020.",
+            "image": "https://i0.wp.com/library-tsul.uz/wp-content/uploads/2022/08/d18ed180d0b8d0b4d0b8d0ba-d184d0b0d0bdd0bbd0b0d180-d0b0d185d0b1d0bed180d0bed182d0bdd0bed0bcd0b0d181d0b8-e28496-1-2020_630762eb76dcf.jpeg?w=724&ssl=1"
+        },
+        {
+            "id": 8,
+            "title": "Yuridik fanlar axborotnomasi. Maxsus son. 2020.",
+            "image": "https://i0.wp.com/library-tsul.uz/wp-content/uploads/2022/08/yuridik-fanlar-axborotnomasi-maxsus-son-2020_630761ba85e8f.jpeg?w=724&ssl=1"
+        }
+    ]
+    
+}

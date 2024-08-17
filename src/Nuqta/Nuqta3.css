@@ -1,0 +1,33 @@
+
+
+  .dots {
+    margin-right: 10px;
+    font-size: 24px;
+  }
+  
+  .menu-item {
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    z-index: 10000;
+  }
+  
+  .caret {
+    margin-left: 5px;
+    font-size: 18px;
+  }
+  
+  .dropdown {
+    margin-top: 10px;
+    width: 200px;
+    height: auto;
+    border: 1px solid #ccc;
+    padding: 10px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  .Menuu{
+    z-index: 1000;
+    position: absolute;
+    background-color: rgb(255, 255, 255);
+  }
